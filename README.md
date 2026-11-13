@@ -20,4 +20,4 @@ as well as the outputs:
 - tables in CSV and Excel formats
 - box plots (PNG, JPEG, PDF, SVG)
 
-Python files in .ipynb and R files in .R
+Python files in .ipynb, R files in .R and Julia files in .jl
