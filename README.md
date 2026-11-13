@@ -19,3 +19,5 @@ Thanks to an advanced graphical user interface (GUI), DWPSD allows for easy cust
 as well as the outputs:
 - tables in CSV and Excel formats
 - box plots (PNG, JPEG, PDF, SVG)
+
+Python files in .ipynb and R files in .R
