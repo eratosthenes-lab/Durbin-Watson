@@ -20,4 +20,4 @@ as well as the outputs:
 - tables in CSV and Microsoft Excel XLSX formats;
 - box plots (PNG, JPEG, PDF, SVG).
 
-Python files in .ipynb, R file in .R, Julia file in .jl, C++ file in .cpp, Rust file in .rs, Go (Golang) file in .go and C# (.NET 8+) file in .cs.
+Python files in .ipynb, R file in .R, Julia file in .jl, C++ file in .cpp, Rust file in .rs, Go (Golang) file in .go, C# (.NET 8+) file in .cs, and CUDA / C++ su GPU (or Numba/CuPy) file in .cu.
