@@ -10,14 +10,14 @@ To calculate d for each of the 9 simulations-which range from 10 up to 1 billion
 
 for large scales the default batching size is 10 million for DWMCPT and 2 million for DWPSD; however, this value can, however, be adjusted based on available RAM.
 Thanks to an advanced graphical user interface (GUI), DWPSD allows for easy customization of input data:
-- data source
-- centering relative to the mean
-- seed for random sampling
-- seed for simulation
-- batch size
+- data source;
+- centering relative to the mean;
+- seed for random sampling;
+- seed for simulation;
+- batch size;
 
 as well as the outputs:
-- tables in CSV and Excel formats
-- box plots (PNG, JPEG, PDF, SVG)
+- tables in CSV and Microsoft Excel XLSX formats;
+- box plots (PNG, JPEG, PDF, SVG).
 
 Python files in .ipynb, R file in .R, Julia file in .jl and C++ file in cpp.
