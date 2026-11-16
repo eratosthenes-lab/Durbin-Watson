@@ -8,7 +8,7 @@ To calculate d for each of the 9 simulations-which range from 10 up to 1 billion
 - for sample sizes up to 1 Million (1 M): fast single-step in-RAM;
 - for large scales (10 M, 100 M, 1 B): leveraging high-capacity RAM.
 
-For large scales the default batching size is 10 million for DWMCPT and 2 million for DWPSD; however, this value can, however, be adjusted based on available RAM.
+For large scales the default batching size is 10 million for DWMCPT and 2 million for DWPSD; however, this value can be adjusted based on available RAM.
 Thanks to an advanced graphical user interface (GUI), DWPSD allows for easy customization of input data:
 - data source;
 - centering relative to the mean;
