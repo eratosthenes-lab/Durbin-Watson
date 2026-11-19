@@ -20,7 +20,8 @@ Because the numerator depends directly on the difference between consecutive res
 **Matteo Putzulu** — [GitHub (@eratosthenes-lab)](https://github.com) | [Substack](https://substack.com) | [Medium](https://medium.com)
 
 
-# Durbin-Watson
+# Durbin-Watson - Monte Carlo Permutation Test (MCPT)
+
 The purpose of this script is to highlight the importance of the “order” in which regression analysis residuals n are arranged, given that the value of d depends on the difference between consecutive residuals.
 Simulations are performed using 10, 100, 1,000, ... up to 1 billion permutations of the n residuals. This approach applies the Monte Carlo method.
 For each of the simulations, the d-value is calculated for every permutation, and the following statistical indices are reported: mean, median, standard deviation (SD), minimum, maximum, first quartile (Q1), and third quartile (Q3); the results are presented in a table and a boxplot to facilitate comparison.
