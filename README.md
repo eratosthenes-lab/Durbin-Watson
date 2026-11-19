@@ -1,4 +1,4 @@
-# Matteo Putzulu — Eratosthenes Lab
+# Matteo Putzulu — Eratosthenes-Lab
 
 **Civil and Industrial Engineer (M.Eng.) | Professional Engineer | International Welding Engineer (IWE) | Data Scientist**
 
