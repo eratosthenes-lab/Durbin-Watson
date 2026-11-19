@@ -1,20 +1,23 @@
-# Matteo Putzulu — Eratosthenes-Lab
+# Durbin-Watson Statistic & Residual Ordering
 
-**Civil and Industrial Engineer (M.Eng.) | Professional Engineer | International Welding Engineer (IWE) | Data Scientist**
+This repository contains a Jupyter Notebook illustrating the sensitivity of the **Durbin-Watson ($d$) statistic** to the ordering of observations in regression analysis.
 
-Welcome to **Eratosthenes Lab**, my personal workspace dedicated to quantitative analysis, statistical modeling, engineering calculations, and data science.
+### Overview
+The Durbin-Watson test is widely used to detect first-order autocorrelation in the residuals of a regression model:
 
-### Focus Areas
-* **Statistical & Econometric Analysis:** Time series, regression diagnostics, and residual analysis.
-* **Data Science & Engineering:** Data-driven modeling applied to civil, industrial, energy, and environmental systems.
-* **Reproducible Research:** Open notebooks and scripts supporting technical articles and publications.
+$$d = \frac{\sum_{t=2}^{T} (e_t - e_{t-1})^2}{\sum_{t=1}^{T} e_t^2}$$
 
-### Where to Find My Work
-* **Substack:** [The Quantitative Epoch](https://substack.com)
-* **Medium:** [@mp.engineering](https://medium.com)
-* **ResearchGate:** [Matteo Putzulu](https://researchgate.net)
-* **Academia.edu:** [Matteo Putzulu](https://academia.edu)
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+Because the numerator depends directly on the difference between consecutive residuals ($e_t - e_{t-1}$), sorting or rearranging the dataset changes the value of $d$, potentially leading to misleading conclusions if the underlying index (e.g., time or spatial sequence) is not properly preserved.
+
+### Contents
+* **Jupyter Notebook (`.ipynb`):** Step-by-step simulation, residual calculation, and comparison across different data orderings.
+
+### Requirements
+* Python 3.x
+* `numpy`, `pandas`, `statsmodels`, `matplotlib`
+
+### Author
+**Matteo Putzulu** — [GitHub (@eratosthenes-lab)](https://github.com) | [Substack](https://substack.com) | [Medium](https://medium.com)
 
 
 # Durbin-Watson
