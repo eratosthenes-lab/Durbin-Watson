@@ -17,7 +17,7 @@ Because the numerator depends directly on the difference between consecutive res
 * `numpy`, `pandas`, `statsmodels`, `matplotlib`
 
 ### Author
-**Matteo Putzulu** — [GitHub (@eratosthenes-lab)](https://github.com) | * **LinkedIn:** [Matteo Putzulu](https://www.linkedin.com/in/matteoputzulu/) | * **Medium:** [@mp.engineering](https://medium.com/@mp.engineering) | * **ResearchGate:** [Matteo Putzulu](https://www.researchgate.net/profile/Matteo-Putzulu) | * **Substack:** [The Quantitative Epoch](https://substack.com/@thequantitativeepoch) | * **Academia.edu:** [Matteo Putzulu](https://independent.academia.edu/MatteoPutzulu) |
+**Matteo Putzulu** — [GitHub (@eratosthenes-lab)](https://github.com) | **LinkedIn:** [Matteo Putzulu](https://www.linkedin.com/in/matteoputzulu/) | * **Medium:** [@mp.engineering](https://medium.com/@mp.engineering) | * **ResearchGate:** [Matteo Putzulu](https://www.researchgate.net/profile/Matteo-Putzulu) | * **Substack:** [The Quantitative Epoch](https://substack.com/@thequantitativeepoch) | * **Academia.edu:** [Matteo Putzulu](https://independent.academia.edu/MatteoPutzulu) |
 
 
 # Durbin-Watson - Monte Carlo Permutation Test (MCPT)
