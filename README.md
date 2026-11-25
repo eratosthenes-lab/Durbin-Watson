@@ -44,4 +44,4 @@ as well as the outputs:
 - box plots (PNG, JPEG, PDF, SVG).
 
 Python files in .ipynb, R file in .R, Julia file in .jl, C++ file in .cpp, Rust file in .rs, Go (Golang) file in .go, C# (.NET 8+) file in .cs, and CUDA / C++ (or Numba/CuPy) file for GPU in .cu.
-#### See the PDF "DWPSD v.5.9" for details.
+#### See the PDF [DWPSD v.5.9](https://github.com/eratosthenes-lab/Durbin-Watson/blob/main/DWPSD%20v.5.9.pdf) for details.
